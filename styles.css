@@ -1,1 +1,21 @@
+.hero{display:flex;
+justify-content:space-evenly;
+align-items:center;
+	}
+.info{
+	margin-left:50px;
+}
+img{
+	
+	width:500px;
+	height:350px;
+	object-fit: cover;
+}
+button{
+	padding:30px;
+	background-color:red;
+	color:white;
+	border-radius:2px;
+	
+}
 /*  your css code here. If applicable */
